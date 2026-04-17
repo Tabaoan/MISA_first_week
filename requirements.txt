@@ -1,0 +1,11 @@
+# Core dependencies for RAG system
+openai>=1.0.0
+qdrant-client>=2.7.0
+python-dotenv>=1.0.0
+
+# PDF processing
+pdfplumber>=0.10.0
+
+# Jupyter notebook support (optional)
+jupyter>=1.0.0
+ipython>=8.0.0
